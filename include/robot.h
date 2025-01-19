@@ -2,7 +2,7 @@
 
 using namespace vex;
 
-extern brain Brain;
+extern vex::brain Brain;
 
 extern motor_group LeftMotor;
 extern motor_group RightMotor;
